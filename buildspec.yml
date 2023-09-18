@@ -12,4 +12,4 @@ artifacts:
   name: products-api-$(date +%Y-%m-%d)
 cache:
   paths:
-    - '~/.npm'
+    - '**/*'
